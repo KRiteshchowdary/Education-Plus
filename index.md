@@ -135,7 +135,7 @@
       You can see my personal blog <a href="blog.html" title=""="my website" target="_blank">here</a>
     </p>
     <br />
-    <img src="1.jpg" alt="a selfie of mine " style="width:300px;height:400px" />
+    <img src="images/1.png" alt="a selfie of mine " style="width:300px;height:400px" />
 
     <pre>
       Contact me at <u>+919618369961</u>
