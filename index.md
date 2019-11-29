@@ -132,7 +132,7 @@
     <h2 id="Contact">Contact me</h2>
     <p class="information">
       If you have any doubts or need help feel free to ping me<br />
-      You can see my personal blog <a href="blog.html" title=""="my website" target="_blank">here</a>
+      You can see my personal blog <a href="blog.html" title="my website" target="_blank">here</a>
     </p>
     <br />
     <img src="images/1.png" alt="a selfie of mine " style="width:300px;height:400px" />
